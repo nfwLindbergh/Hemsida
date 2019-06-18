@@ -1,4 +1,30 @@
+body1 {
+    height: 125vh;
+    background-size: cover;
+    font-family: sans-serif;
+}
+header {
+    background-color: white;
+    display: flex;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 80px;
+    align-items: center;
+
+}
+header img {
+    height: 80px;
+    width: auto;
+}
+
+header * {
+    display: inline;
+}
+
+
 h1{
+    padding-top: 20px;
     background: pink;
     text-align: center;
 }

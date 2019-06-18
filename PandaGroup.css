@@ -1,16 +1,17 @@
-body1 {
+body {
     height: 125vh;
     background-size: cover;
     font-family: sans-serif;
 }
 header {
-    background-color: white;
+    background-color: pink;
     display: flex;
     top: 0;
     left: 0;
     right: 0;
     height: 80px;
     align-items: center;
+    position: fixed;
 
 }
 header img {
@@ -24,9 +25,11 @@ header * {
 
 
 h1{
-    padding-top: 20px;
+    
+    padding-left: 230px;
     background: pink;
     text-align: center;
+    display: inline;
 }
 body
 {

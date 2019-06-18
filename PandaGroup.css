@@ -11,6 +11,8 @@ header {
     right: 0;
     height: 80px;
     align-items: center;
+    box-shadow: 0 0 20px black;
+    position: fixed;
     
 
 }
@@ -51,6 +53,7 @@ body
 {
 	font-family: Arial;
     background-image:url("bamboo_forest.jpg");
+    background-attachment: fixed;
 }
 
 img {
@@ -59,11 +62,12 @@ img {
 
 #main {
 	width:600px;
-	margin:20px auto;
+	margin:100px auto;
     background: white;
     padding: 20px;
     border-style: double;
     border-width: 20px;
+    box-shadow: 0 0 50px black;
 }
 
 .wikitable {

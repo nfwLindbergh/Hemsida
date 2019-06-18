@@ -4,7 +4,7 @@ body {
     font-family: sans-serif;
 }
 header {
-    background-color: pink;
+    background-image: url("Header_image.jpg");
     display: flex;
     top: 0;
     left: 0;
@@ -33,12 +33,15 @@ header li a {
 }
 
 
+
 h1{
     
-    padding-left: 215px;
-    background: pink;
+    padding-left: 165px;
     text-align: center;
     display: inline;
+    font-family: Arial white;
+    font-size: 55px;
+
 }
 body
 {

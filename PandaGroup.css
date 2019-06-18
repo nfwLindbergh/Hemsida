@@ -28,8 +28,10 @@ header li {
 }
 
 header li a {
-    color: black;
+    color: white;
     text-decoration: none;
+    font: 15px;
+    text-shadow: 0 0 2px black;
 }
 
 
@@ -39,9 +41,11 @@ h1{
     padding-left: 165px;
     text-align: center;
     display: inline;
-    font-family: Arial white;
+    font-family: Arial;
     font-size: 55px;
-
+    font: 15px;
+    color: white;
+    text-shadow: 0 0 5px black;
 }
 body
 {

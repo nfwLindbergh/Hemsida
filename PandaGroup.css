@@ -11,7 +11,7 @@ header {
     right: 0;
     height: 80px;
     align-items: center;
-    position: fixed;
+    
 
 }
 header img {
@@ -58,9 +58,8 @@ img {
 }
 
 #main {
-    padding-top: 600px;
 	width:600px;
-	margin:40px auto;
+	margin:100px auto;
     background: white;
     padding: 20px;
     border-style: double;

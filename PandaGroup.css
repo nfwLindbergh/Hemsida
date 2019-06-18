@@ -1,6 +1,11 @@
+h1{
+    background: pink;
+    text-align: center;
+}
 body
 {
 	font-family: Arial;
+    background: beige;
 }
 
 img {
@@ -10,6 +15,7 @@ img {
 #main {
 	width:600px;
 	margin:40px auto;
+    background: white;
 }
 
 .wikitable {

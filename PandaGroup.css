@@ -42,6 +42,7 @@ img {
 }
 
 #main {
+    padding-top: 600px;
 	width:600px;
 	margin:40px auto;
     background: white;
